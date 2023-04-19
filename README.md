@@ -16,7 +16,7 @@
 
 【被测应用及框架】
 
-被测系统：安卓
+被测系统：iOS
 
 被测应用:WeTest_Demo_enterprise.ipa
 
